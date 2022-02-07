@@ -49,7 +49,7 @@ module.exports = appInfo => {
   };
 
   config.jwt = {
-    secret: 'QLBCRLkKmwgZac0C3Jf9212121',
+    secret: '',
   };
 
   config.multipart = {
